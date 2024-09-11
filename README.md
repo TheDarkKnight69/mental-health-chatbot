@@ -17,7 +17,7 @@ To run the Mental Health Chatbot locally, follow these steps:
    ```bash
    git clone https://github.com/TheDarkKnight69/mental-health-chatbot.git
    ```
-
+1. [OR] Download the repository as a zip and extract it. 
 2. **Navigate to the project directory:**
 
    ```bash
